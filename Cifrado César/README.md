@@ -48,9 +48,9 @@ Al ejecutar el programa, se presentará un menú donde puedes elegir entre cifra
 
 1. Ejecutar el programa `./cifradoCesar`
 2. Seleccionar la opción `2` (Descifrar)
-3. Ingresar el texto cifrado, por ejemplo: `KROD PXQGR`
+3. Ingresar el texto cifrado, por ejemplo: `KRÑD OXPGR`
 4. Ingresar la misma llave usada en el cifrado, por ejemplo: `3`
-5. Se mostrará el texto descifrado: `KRÑD OXPGR`
+5. Se mostrará el texto descifrado: `HOLA MUNDO`
 
 ## Notas
 
