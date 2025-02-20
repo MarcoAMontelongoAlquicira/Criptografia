@@ -42,7 +42,7 @@ Al ejecutar el programa, se presentará un menú donde puedes elegir entre cifra
 2. Seleccionar la opción `1` (Cifrar)
 3. Ingresar el texto, por ejemplo: `HOLA MUNDO`
 4. Ingresar la llave, por ejemplo: `3`
-5. Se mostrará el texto cifrado, por ejemplo: `KROD PXQGR`
+5. Se mostrará el texto cifrado, por ejemplo: `KRÑD OXPGR`
 
 ### **Probar descifrado**
 
@@ -50,7 +50,7 @@ Al ejecutar el programa, se presentará un menú donde puedes elegir entre cifra
 2. Seleccionar la opción `2` (Descifrar)
 3. Ingresar el texto cifrado, por ejemplo: `KROD PXQGR`
 4. Ingresar la misma llave usada en el cifrado, por ejemplo: `3`
-5. Se mostrará el texto descifrado: `HOLA MUNDO`
+5. Se mostrará el texto descifrado: `KRÑD OXPGR`
 
 ## Notas
 
